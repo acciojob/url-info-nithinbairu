@@ -1,3 +1,3 @@
 //your JS code here. If required.
 let currentLocation=window.location.href;
-alert(currentLocation.length);
+alert("The length of the URL is: "+currentLocation.length);
